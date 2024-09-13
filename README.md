@@ -21,7 +21,7 @@
 for more detailed params, please refer to args.py
 
 
-
+```
 @article{cheng2024general,
   title={A general tail item representation enhancement framework for sequential recommendation},
   author={Cheng, Mingyue and Liu, Qi and Zhang, Wenyu and Liu, Zhiding and Zhao, Hongke and Chen, Enhong},
@@ -32,3 +32,4 @@ for more detailed params, please refer to args.py
   year={2024},
   publisher={Springer}
 }
+```

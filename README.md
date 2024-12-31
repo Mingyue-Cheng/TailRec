@@ -1,6 +1,6 @@
 
 
-## TailRec
+## TailRec: A general tail item representation enhancement framework for sequential recommendation (FCS)
 
 <img width="1210" alt="截屏2024-07-25 21 10 18" src="https://github.com/user-attachments/assets/4c569702-2767-4d67-8b03-4bc0e9fe70a4">
 
